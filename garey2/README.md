@@ -1,0 +1,1 @@
+## This is a folder of all the projects I am working on for various school projects.
